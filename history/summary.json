@@ -22,17 +22,19 @@
     "url": "https://base.phoenixvtc.com",
     "icon": "https://base.phoenixvtc.com/favicon.ico",
     "slug": "phoenix-base",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 576,
-    "timeDay": 659,
-    "timeWeek": 533,
+    "timeDay": 615,
+    "timeWeek": 537,
     "timeMonth": 576,
     "timeYear": 576,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-22": 0
+    }
   }
 ]

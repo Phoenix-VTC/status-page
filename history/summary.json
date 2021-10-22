@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 608,
-    "timeDay": 671,
-    "timeWeek": 572,
-    "timeMonth": 608,
-    "timeYear": 608,
+    "time": 601,
+    "timeDay": 583,
+    "timeWeek": 563,
+    "timeMonth": 601,
+    "timeYear": 601,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://base.phoenixvtc.com",
     "icon": "https://base.phoenixvtc.com/favicon.ico",
     "slug": "phoenix-base",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 576,
-    "timeDay": 615,
-    "timeWeek": 537,
-    "timeMonth": 576,
-    "timeYear": 576,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 571,
+    "timeDay": 574,
+    "timeWeek": 532,
+    "timeMonth": 571,
+    "timeYear": 571,
     "dailyMinutesDown": {
-      "2021-10-22": 0
+      "2021-10-22": 24
     }
   }
 ]

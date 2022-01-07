@@ -4,18 +4,20 @@
     "url": "https://phoenixvtc.com",
     "icon": "https://base.phoenixvtc.com/favicon.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 607,
-    "timeDay": 576,
-    "timeWeek": 554,
-    "timeMonth": 579,
-    "timeYear": 607,
-    "dailyMinutesDown": {}
+    "time": 602,
+    "timeDay": 357,
+    "timeWeek": 502,
+    "timeMonth": 565,
+    "timeYear": 602,
+    "dailyMinutesDown": {
+      "2022-01-07": 0
+    }
   },
   {
     "name": "PhoenixBase",
